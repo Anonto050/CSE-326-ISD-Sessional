@@ -1,5 +1,3 @@
-Here is the updated README with the added features/services, frontend and backend repository links, and an image placeholder for services:
-
 # VeriTax
 
 ## Project: VeriTax - Automated Assessment of Your Income Tax Return
