@@ -6,33 +6,30 @@ Welcome to the VeriTax project repository. This repository contains all the nece
 
 ## Repository Structure
 
-- **[BPMN Diagram](#)**
-  - This folder contains Business Process Model and Notation (BPMN) diagrams for the VeriTax platform.
+- **[BPMN Diagram](https://github.com/Anonto050/CSE-326-ISD-Sessional/blob/main/BPMN.svg)**
+  - This file contains Business Process Model and Notation (BPMN) diagrams for the VeriTax platform.
   - The diagrams illustrate the business processes and workflows involved in the system, helping to visualize the sequence of activities.
 
-- **[Mock UI](#)**
-  - This folder contains mock user interfaces designed for the VeriTax platform.
+- **[Mock UI](https://github.com/Anonto050/CSE-326-ISD-Sessional/blob/main/Group-3Mock-ui-1.pdf)**
+  - This file contains mock user interfaces designed for the VeriTax platform.
   - It includes wireframes and prototype designs that help visualize the user experience and interface layout.
 
-- **[Class Diagram and ERD](#)**
-  - This folder includes the class diagram and Entity-Relationship Diagram (ERD) for the VeriTax system.
+- **[Class Diagram and ERD](https://github.com/Anonto050/CSE-326-ISD-Sessional/blob/main/Class%20Diagram%20and%20ERD.pdf)**
+  - This file includes the class diagram and Entity-Relationship Diagram (ERD) for the VeriTax system.
   - These diagrams provide a visual representation of the system's data structure and relationships between different entities.
 
-- **[Collaboration Diagram](#)**
-  - This folder contains collaboration diagrams that illustrate the interactions between objects in the VeriTax system.
+- **[Collaboration Diagram](https://github.com/Anonto050/CSE-326-ISD-Sessional/blob/main/Collaboration%20Diagram.pdf)**
+  - This file contains collaboration diagrams that illustrate the interactions between objects in the VeriTax system.
   - The diagrams help understand how objects work together to achieve specific system functions.
 
-- **[Sequence Diagram](#)**
-  - This folder includes sequence diagrams that show the sequence of messages and interactions between objects in the system.
+- **[Sequence Diagram](https://github.com/Anonto050/CSE-326-ISD-Sessional/blob/main/Sequence%20Diagram.pdf)**
+  - This file includes sequence diagrams that show the sequence of messages and interactions between objects in the system.
   - The diagrams provide a detailed view of the order in which operations are carried out.
 
-- **[State Diagram](#)**
-  - This folder contains state diagrams that depict the different states of the system or objects and the transitions between them.
+- **[State Diagram](https://github.com/Anonto050/CSE-326-ISD-Sessional/blob/main/State%20Diagram.pdf)**
+  - This file contains state diagrams that depict the different states of the system or objects and the transitions between them.
   - The diagrams help visualize the lifecycle of objects in the VeriTax platform.
 
-- **[Demo of the Project](#)**
-  - This section provides a demo or showcase of the VeriTax project.
-  - It includes videos, screenshots, or descriptions of the system's functionalities and features.
 
 ## Project Repository
 
@@ -52,7 +49,7 @@ To get started with the VeriTax project, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/Anonto050/CSE-326-ISD-Sessional
    ```
 
 2. **Navigate to the Project Directory**
@@ -61,7 +58,7 @@ To get started with the VeriTax project, follow these steps:
    ```
 
 3. **Explore the Folders**
-   - Navigate through the `BPMN Diagram`, `Mock UI`, `Class Diagram and ERD`, `Collaboration Diagram`, `Sequence Diagram`, and `State Diagram` folders to explore the content and documentation.
+   - Navigate through the `BPMN Diagram`, `Mock UI`, `Class Diagram and ERD`, `Collaboration Diagram`, `Sequence Diagram`, and `State Diagram` files to explore the content and documentation.
 
 ## Contribution Guidelines
 
