@@ -1,8 +1,12 @@
+Here is the updated README with the added features/services, frontend and backend repository links, and an image placeholder for services:
+
 # VeriTax
 
 ## Project: VeriTax - Automated Assessment of Your Income Tax Return
 
 Welcome to the VeriTax project repository. This repository contains all the necessary files and documentation related to the VeriTax project for the CSE-326 Information System Design Sessional course.
+
+<img src="assets/demo.png" alt="VeriTax Project Overview"/>
 
 ## Repository Structure
 
@@ -30,19 +34,35 @@ Welcome to the VeriTax project repository. This repository contains all the nece
   - This file contains state diagrams that depict the different states of the system or objects and the transitions between them.
   - The diagrams help visualize the lifecycle of objects in the VeriTax platform.
 
+## Services of VeriTax
 
-## Project Repository
+<img src="assets/services.png" alt="Services"/>
 
-The project repository for VeriTax can be found at the following link:
-- [VeriTax Project Repository](#)
+1. **Fill Up Tax Form**
+   - Users can fill out their tax forms online through the VeriTax platform, ensuring all necessary fields are completed and calculations are accurate applying OCR.  
+
+2. **Check Return Status**
+   - The platform allows users to check the status of their tax returns, providing updates on processing stages and any required actions.
+
+3. **See Rules**
+   - Users can access a comprehensive list of tax rules and regulations to ensure compliance and understand their tax obligations. Also can see the rules applicable for his/her tax returns by analyzing them and finding anomalies.
+
+## Project Repositories
+
+- **Frontend Repository:** [VeriTax Frontend](https://github.com/Anonto050/VeriTax-FrontEnd/)
+- **Backend Repository:** [VeriTax Backend](https://github.com/risenfromashes/isd-backend)
 
 ## Team Members
 
 The VeriTax project is developed by the following team members:
-1. [Riad Ahmed Anonto](https://github.com/Anonto050)
-2. [Md Ishrak Ahsan](#)
-3. [Farhan Tahmidul Karim](#)
 
+1. `19050005 : Ashrafur Rahman Khan`
+2. `1905012 : Faria Moushee`
+3. `1905022 : Fatema Tuz Zohra Ava`
+4. `1905035 : Farhan Tahmidul Karim `
+5. `1905045 : Md Ishrak Ahsan`
+6. `1905050 : Riad Ahmed Anonto`
+   
 ## Getting Started
 
 To get started with the VeriTax project, follow these steps:
